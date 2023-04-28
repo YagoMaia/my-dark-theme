@@ -1,8 +1,9 @@
 {
+  "publisher": "YagoMaia",
   "name": "my-dark-theme",
   "displayName": "My Dark Theme",
   "description": "my dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
