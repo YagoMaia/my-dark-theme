@@ -1,8 +1,8 @@
 {
   "publisher": "YagoMaia",
-  "name": "my-dark-theme",
-  "displayName": "My Dark Theme",
-  "description": "my dark theme",
+  "name": "yagomaia_theme",
+  "displayName": "YagoMaia Theme",
+  "description": "YagoMaia Theme",
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
@@ -15,7 +15,7 @@
       {
         "label": "YagoMaia",
         "uiTheme": "vs-dark",
-        "path": "./themes/YagoMaia-color-theme.json"
+        "path": "./themes/yagomaia_theme.json"
       }
     ]
   }
