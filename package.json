@@ -1,9 +1,9 @@
 {
   "publisher": "YagoMaia",
-  "name": "yagomaia_theme",
-  "displayName": "YagoMaia Theme",
-  "description": "YagoMaia Theme",
-  "version": "0.0.2",
+  "name": "yagomaia-theme",
+  "displayName": "YagoMaia-Theme",
+  "description": "YagoMaia-Theme",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -15,7 +15,7 @@
       {
         "label": "YagoMaia",
         "uiTheme": "vs-dark",
-        "path": "./themes/yagomaia_theme.json"
+        "path": "./themes/yagomaia-theme.json"
       }
     ]
   }
