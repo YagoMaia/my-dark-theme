@@ -3,10 +3,20 @@
   "name": "yagomaia-theme",
   "displayName": "YagoMaia-Theme",
   "description": "YagoMaia-Theme",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "icon": "purple.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YagoMaia/Maia-Theme"
+  },
+  "keywords": [
+    "theme",
+    "maia theme",
+    "dark theme"
+  ],
   "categories": [
     "Themes"
   ],
