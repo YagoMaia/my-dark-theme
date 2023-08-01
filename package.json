@@ -1,9 +1,9 @@
 {
   "publisher": "YagoMaia",
-  "name": "yagomaia-theme",
-  "displayName": "YagoMaia-Theme",
-  "description": "YagoMaia-Theme",
-  "version": "0.0.3",
+  "name": "maia_theme_purple",
+  "displayName": "Maia-Theme-Purple",
+  "description": "Maia-Theme-Purple",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "YagoMaia",
+        "label": "Maia Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/yagomaia-theme.json"
       }
